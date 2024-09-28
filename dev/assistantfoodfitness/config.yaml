@@ -1,0 +1,8 @@
+mysql:
+  host: "localhost"
+  user: "root"
+  password: "yourpassword"
+  db: "personal_assistant_db"
+
+openai:
+  api_key: "your-openai-api-key"
